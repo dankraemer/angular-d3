@@ -1,8 +1,13 @@
 # AngularD3
 
 Angular with D3 visualization library
+Example from https://github.com/lsharir/angular-d3-graph-example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+$ npm install --save d3
+$ npm install --save @types/d3
+
 
 ## Development server
 
